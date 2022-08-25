@@ -3,7 +3,7 @@
 
 [Network Scheme](https://www.canva.com/design/DAFJoj5G3yk/gTRdlMHx5KiGYY9A8VGKSQ/edit?utm_content=DAFJoj5G3yk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[Designer 1][https://www.behance.net/ricardo-arias]
+[Designer 1](https://www.behance.net/ricardo-arias)
 
 [Designer 2](https://mirror.xyz/huwan.eth/68VwiReTKT1g5rLYCM9md_pyEMY5tAtLmXT5O6o0ZKw)
 
