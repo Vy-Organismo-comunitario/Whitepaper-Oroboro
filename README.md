@@ -9,7 +9,7 @@
 
 [NFT transparent paper](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/111320008263012827684568920912252212248426339054536738155170604795225649971202) 🚧
 
-![orodiscord1](https://user-images.githubusercontent.com/38388270/186803985-4c113b90-bea7-4ebe-a5ba-678da01fb5bc.PNG)
 
-###Join the Lab
-[Discord](https://discord.gg/yJGJqzZEPY)
+### Join the Spanish Lab 
+![logo](https://user-images.githubusercontent.com/38388270/186804937-fb3e2b04-5c12-4e16-b7b0-1efd5f8786a1.gif)
+[oroboro OMGLab](https://discord.gg/yJGJqzZEPY)
