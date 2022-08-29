@@ -7,6 +7,16 @@
 
 [Designer 2](https://mirror.xyz/huwan.eth/68VwiReTKT1g5rLYCM9md_pyEMY5tAtLmXT5O6o0ZKw)
 
+[Designer 3](https://www.linkedin.com/in/stephen--schroeder/)
+
+
+
+[Seasons](https://mirror.xyz/0xBc9fd37929f8C0c215e4F3690C3920e69993F7c4/aYGpt7HoqCFtaarioSZaPYxI_1CwT3qHc_T1-arzGXs)
+
+[Partnership 🚢](https://mirror.xyz/0xBc9fd37929f8C0c215e4F3690C3920e69993F7c4/aYGpt7HoqCFtaarioSZaPYxI_1CwT3qHc_T1-arzGXs)
+
+[Oroboro Governance - Tokenomics & Pay Rates](https://mirror.xyz/0xBc9fd37929f8C0c215e4F3690C3920e69993F7c4/QvNmOyvMxOCR28co5odEl9HFQSgfUtDS9fjjcKOjY64)
+
 [NFT transparent paper](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/111320008263012827684568920912252212248426339054536738155170604795225649971202) 🚧
 
 
