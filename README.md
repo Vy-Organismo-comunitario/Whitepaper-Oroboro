@@ -7,7 +7,7 @@
 
 [Oroboro Governance - Tokenomics & Pay Rates](https://mirror.xyz/0xBc9fd37929f8C0c215e4F3690C3920e69993F7c4/QvNmOyvMxOCR28co5odEl9HFQSgfUtDS9fjjcKOjY64)
 
-[NFT Structure paper](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/111320008263012827684568920912252212248426339054536738155170604795225649971202) 🚧
+[NFT Funding Collection](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/111320008263012827684568920912252212248426339054536738155170604795225649971202) Pipeline - Base Structure - 🚧
 
 
 ### Join the Spanish Lab 
