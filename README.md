@@ -10,6 +10,14 @@
 Grant aplication links
 Gitcoin - Bankless - Clr.fund ~ Other
 
+
+###### Human:
+> Yes, please! Can you help me to visualize how you imagine poetry data sets can help to develop open ai models to improve universal life with them?
+###### [Open AI](https://beta.openai.com/playground/p/default-chat):
+
+> Data visualizations of this data sets that illustrate how specific lines of poetry are connected to different elements of human life.
+For example, data can be collected about how different lines of poetry affect people living in poverty, people going through difficult times, or people dealing with relationships. By visualizing the connections between poetry and certain aspects of life, it could give us insight into how OpenAI models can use that same data to create solutions to universal issues. ´
+
 ### Join the Spanish 1st Lab 
 ![logo](https://user-images.githubusercontent.com/38388270/186804937-fb3e2b04-5c12-4e16-b7b0-1efd5f8786a1.gif)
 [oroboro OMGLab](https://discord.gg/yJGJqzZEPY)
